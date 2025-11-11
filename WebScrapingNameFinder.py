@@ -1,5 +1,3 @@
-# ---- Augusta Daniel: Webscraping jméno zvlášť, příjmení zvlášť, dohromady ----
-
 import requests
 from bs4 import BeautifulSoup
 import json
